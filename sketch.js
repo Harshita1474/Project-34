@@ -9,7 +9,7 @@ function preload()
 {
   //load images here
   dogImg=loadImage("Dog.png");
-  happyDogImg=loadImage("/happydog.png");
+  happyDogImg=loadImage("happydog.png");
 }
 
 function setup() {
